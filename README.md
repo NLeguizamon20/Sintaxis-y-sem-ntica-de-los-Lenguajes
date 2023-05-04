@@ -1,12 +1,12 @@
 # Sintaxis y semantica de los Lenguajes
 
 ___
--K2054
+- K2054
 ___
--2023
+- 2023
 ___
--209.046-6
+- 209.046-6
 ___
--Leguizamon
+- Leguizamon
 ___
--Nahuel
+- Nahuel
