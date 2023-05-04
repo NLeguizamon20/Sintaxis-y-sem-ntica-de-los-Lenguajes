@@ -1,4 +1,4 @@
-#Carpeta de Resolucion de Trabajo
+# Carpeta de Resolucion de Trabajo
 - 777 
 - Leguizamon Nahuel
 - NLeguizamon20
