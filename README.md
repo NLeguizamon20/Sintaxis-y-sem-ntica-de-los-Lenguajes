@@ -1,9 +1,9 @@
 # Sintaxis y semantica de los Lenguajes
 
 ___
-- K2054
+- K2051
 ___
-- 2023
+- 2024
 ___
 - 209.046-6
 ___
